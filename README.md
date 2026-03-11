@@ -1,7 +1,7 @@
 
 # Bongo Cat Counter
 
-![bongocat](https://github.com/kitgore/BongoCat/assets/87792049/cd430b3e-968b-4e87-9c11-2aa2765d99de)
+![bongocat](https://github.com/kaiyuran/BongoCatCounter/blob/main/Demo.gif?raw=true)
 
 Fork of kitgore's [Bongo Cat](https://github.com/kitgore/BongoCat)
 
