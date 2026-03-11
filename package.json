@@ -1,8 +1,8 @@
 {
-  "name": "BongoCat",
-  "displayName": "Bongo Cat",
-  "description": "Adds a tiny bongo cat to your status bar 😼",
-  "publisher": "pixl-garden",
+  "name": "bongocatcounter",
+  "displayName": "Bongo Cat Counter",
+  "description": "Counts the number of times you press the bongo cat key 😼. Adapted from pixl-garden",
+  "publisher": "pixl-garden + Kaiyuran Thavaruban",
   "version": "0.0.1",
   "icon": "logo.png",
   "engines": {
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kitgore/BongoCat"
-  },  
+    "url": ""
+  },
   "categories": [
     "Other"
   ],
@@ -23,13 +23,19 @@
     "cute",
     "cat"
   ],
-  "activationEvents": ["*"],
+  "activationEvents": [
+    "*"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
         "command": "extension.toggleStatusBar",
         "title": "Toggle Bongo Cat"
+      },
+      {
+        "command": "extension.resetCounter",
+        "title": "Reset Bongo Cat Counter"
       }
     ],
     "productIconThemes": [

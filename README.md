@@ -1,12 +1,14 @@
 
-# Bongo Cat 
+# Bongo Cat Counter
 
 ![bongocat](https://github.com/kitgore/BongoCat/assets/87792049/cd430b3e-968b-4e87-9c11-2aa2765d99de)
 
-Adds a tiny bongo cat to your status bar 😼
+Fork of kitgore's [Bongo Cat](https://github.com/kitgore/BongoCat)
 
+Added a counter to Bongo Cat in your status bar 😼
 
 Use `Toggle Bongo Cat` command to remove from status bar
+Use `Reset Bongo Cat Counter` command to reset the counter
 
 <br/>
  
